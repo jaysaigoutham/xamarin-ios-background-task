@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{0AB93787-3A0F-4CD2-9E3D-F91773BBF554}|Background Fetch">
+  <MonoDevelop.Ide.ItemProperties.OfflineSyncSample.UITests FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OfflineSyncSample/Manager/Sync/SyncManager.cs">
+    <Files>
+      <File FileName="OfflineSyncSample/Manager/Sync/SyncManagerDelegate.cs" Line="42" Column="18" IsPinned="True" />
+      <File FileName="OfflineSyncSample/Manager/Sync/SyncManager.cs" Line="57" Column="1" />
+      <File FileName="OfflineSyncSample/ViewController.cs" Line="54" Column="1" />
+      <File FileName="OfflineSyncSample/Manager/Notification/NotificationManager.cs" Line="1" Column="1" />
+      <File FileName="OfflineSyncSample/Info.plist" />
+      <File FileName="OfflineSyncSample/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="OfflineSyncSample/ViewController.designer.cs" Line="34" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OfflineSyncSample" expanded="True">
+            <Node name="OfflineSyncSample" expanded="True">
+              <Node name="Manager" expanded="True">
+                <Node name="Notification" expanded="True" />
+                <Node name="Sync" expanded="True">
+                  <Node name="SyncManager.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Utiliies" expanded="True" />
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OfflineSyncSample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BEA1FAA4-736D-4A7D-93EE-E8DFD514EDF3" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/ViewController.cs" relfile="OfflineSyncSample/ViewController.cs" line="15" column="1" />
+      <Breakpoint enabled="false" file="/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/Services/SyncService.cs" relfile="OfflineSyncSample/Services/SyncService.cs" line="28" column="1" />
+      <Breakpoint enabled="false" file="/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/Manager/Sync/SyncManager.cs" relfile="OfflineSyncSample/Manager/Sync/SyncManager.cs" line="33" column="1" />
+      <Breakpoint enabled="false" file="/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/Manager/Sync/SyncManagerDelegate.cs" relfile="OfflineSyncSample/Manager/Sync/SyncManagerDelegate.cs" line="47" column="1" />
+      <Breakpoint file="/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/Manager/Sync/SyncManagerDelegate.cs" relfile="OfflineSyncSample/Manager/Sync/SyncManagerDelegate.cs" line="32" column="1" />
+      <Breakpoint file="/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/Manager/Sync/SyncManagerDelegate.cs" relfile="OfflineSyncSample/Manager/Sync/SyncManagerDelegate.cs" line="37" column="1" />
+      <Breakpoint file="/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/AppDelegate.cs" relfile="OfflineSyncSample/AppDelegate.cs" line="98" column="1" />
+      <Breakpoint file="/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/Manager/Sync/SyncManager.cs" relfile="OfflineSyncSample/Manager/Sync/SyncManager.cs" line="75" column="1" />
+      <Breakpoint file="/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/Manager/Sync/SyncManager.cs" relfile="OfflineSyncSample/Manager/Sync/SyncManager.cs" line="57" column="1" />
+      <Breakpoint file="/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/Manager/Sync/SyncManager.cs" relfile="OfflineSyncSample/Manager/Sync/SyncManager.cs" line="68" column="1" />
+      <Breakpoint file="/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/Manager/Sync/SyncManager.cs" relfile="OfflineSyncSample/Manager/Sync/SyncManager.cs" line="70" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

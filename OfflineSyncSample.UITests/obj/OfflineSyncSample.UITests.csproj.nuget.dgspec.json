@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample.UITests/OfflineSyncSample.UITests.csproj": {}
+  },
+  "projects": {
+    "/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample.UITests/OfflineSyncSample.UITests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample.UITests/OfflineSyncSample.UITests.csproj",
+        "projectName": "OfflineSyncSample.UITests",
+        "projectPath": "/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample.UITests/OfflineSyncSample.UITests.csproj",
+        "packagesPath": "/Users/jayasaigsdc/.nuget/packages/",
+        "outputPath": "/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample.UITests/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/jayasaigsdc/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net47"
+        ],
+        "sources": {
+          "/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/CAMMS Risk/cammsrisk_xam/Droid": {},
+          "/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/CAMMS Risk/cammsrisk_xam/Droid": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net47": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net47": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "Xamarin.UITest": {
+              "target": "Package",
+              "version": "[3.0.5, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vXglpX5Je8uhgKtJGMfBkmPoSumQ2ZoVsKKgywtflE/H9+ae954YAdXh2XDd3GFMGj9l6VoadZ4DgpCheofoFw==",
+  "success": true,
+  "projectFilePath": "/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/OfflineSyncSample.csproj",
+  "expectedPackageFiles": [
+    "/Users/jayasaigsdc/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/jayasaigsdc/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/jayasaigsdc/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/jayasaigsdc/.nuget/packages/xamarin.testcloud.agent/0.21.9/xamarin.testcloud.agent.0.21.9.nupkg.sha512"
+  ],
+  "logs": []
+}

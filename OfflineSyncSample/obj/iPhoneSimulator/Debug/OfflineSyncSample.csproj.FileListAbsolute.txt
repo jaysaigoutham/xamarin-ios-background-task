@@ -1,0 +1,17 @@
+/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/bin/iPhoneSimulator/Debug/OfflineSyncSample.exe
+/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/bin/iPhoneSimulator/Debug/OfflineSyncSample.pdb
+/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
+/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
+/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/bin/iPhoneSimulator/Debug/Calabash.dll
+/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/actool/_PartialAppManifest.items
+/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/actool/_BundleResourceWithLogicalName.items
+/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/ibtool/_BundleResourceWithLogicalName.items
+/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/coremlc/_PartialAppManifest.items
+/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/coremlc/_BundleResourceWithLogicalName.items
+/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/obj/iPhoneSimulator/Debug/device-builds/iphone 11-14.4/optimized/
+/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/obj/iPhoneSimulator/Debug/OfflineSyncSample.csproj.AssemblyReference.cache
+/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/obj/iPhoneSimulator/Debug/OfflineSyncSample.csproj.CoreCompileInputs.cache
+/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/obj/iPhoneSimulator/Debug/OfflineSyncSample.csproj.CopyComplete
+/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/obj/iPhoneSimulator/Debug/OfflineSyncSample.exe
+/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/obj/iPhoneSimulator/Debug/OfflineSyncSample.pdb
+/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll

@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/OfflineSyncSample.csproj": {}
+  },
+  "projects": {
+    "/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/OfflineSyncSample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/OfflineSyncSample.csproj",
+        "projectName": "OfflineSyncSample",
+        "projectPath": "/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/OfflineSyncSample.csproj",
+        "packagesPath": "/Users/jayasaigsdc/.nuget/packages/",
+        "outputPath": "/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/OfflineSyncSample/OfflineSyncSample/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/jayasaigsdc/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/CAMMS Risk/cammsrisk_xam/Droid": {},
+          "/Users/jayasaigsdc/Documents/workspace/Xamarin workspace/CAMMS Risk/cammsrisk_xam/Droid": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Xamarin.TestCloud.Agent": {
+              "target": "Package",
+              "version": "[0.21.9, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qCk-6q-W9O">
+                                <rect key="frame" x="94" y="387" width="226" height="36"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                <state key="normal" title="Initiate - Download Task">
+                                    <color key="titleColor" systemColor="systemRedColor"/>
+                                </state>
+                                <connections>
+                                    <action selector="onDownloadClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="oRg-9Y-qll"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fuB-9X-cmd">
+                                <rect key="frame" x="107.5" y="439" width="199" height="36"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                <state key="normal" title="Initiate - Upload Task">
+                                    <color key="titleColor" systemColor="systemGreenColor"/>
+                                </state>
+                                <connections>
+                                    <action selector="onUploadClick:" destination="BYZ-38-t0r" eventType="touchUpInside" id="COx-de-YBc"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="av2-Cf-M8V">
+                                <rect key="frame" x="85" y="539" width="244" height="36"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                <state key="normal" title="Initiate - HTTP Client Task"/>
+                                <connections>
+                                    <action selector="onHTTPClientTask:" destination="BYZ-38-t0r" eventType="touchUpInside" id="KYI-jT-cI0"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aNZ-7i-6tY">
+                                <rect key="frame" x="119.5" y="495" width="175" height="36"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="20"/>
+                                <state key="normal" title="Initiate - Data Task">
+                                    <color key="titleColor" systemColor="systemPurpleColor"/>
+                                </state>
+                                <connections>
+                                    <action selector="onDataTask:" destination="BYZ-38-t0r" eventType="touchUpInside" id="1MI-RT-aHB"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="av2-Cf-M8V" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="3G3-6a-y1g"/>
+                            <constraint firstItem="qCk-6q-W9O" firstAttribute="centerX" secondItem="fuB-9X-cmd" secondAttribute="centerX" id="Kcu-1X-BFA"/>
+                            <constraint firstItem="fuB-9X-cmd" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="UTZ-2t-qnX"/>
+                            <constraint firstItem="qCk-6q-W9O" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="343" id="WWo-R3-mJG"/>
+                            <constraint firstItem="aNZ-7i-6tY" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="YIM-ws-slh"/>
+                            <constraint firstItem="aNZ-7i-6tY" firstAttribute="top" secondItem="fuB-9X-cmd" secondAttribute="bottom" constant="20" id="iRQ-Ef-EBn"/>
+                            <constraint firstItem="fuB-9X-cmd" firstAttribute="top" secondItem="qCk-6q-W9O" secondAttribute="bottom" constant="16" id="vVn-lV-Ahf"/>
+                            <constraint firstItem="av2-Cf-M8V" firstAttribute="top" secondItem="aNZ-7i-6tY" secondAttribute="bottom" constant="8" id="zrN-qY-e6U"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="btnDataUpload" destination="aNZ-7i-6tY" id="13v-Nc-5pp"/>
+                        <outlet property="btnDownload" destination="qCk-6q-W9O" id="Uj3-Sg-Gf6"/>
+                        <outlet property="btnHttpClient" destination="av2-Cf-M8V" id="Hhm-0T-dUc"/>
+                        <outlet property="btnUpload" destination="fuB-9X-cmd" id="GCc-Yd-lgO"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="0.0" y="0.0"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemGreenColor">
+            <color red="0.20392156862745098" green="0.7803921568627451" blue="0.34901960784313724" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemPurpleColor">
+            <color red="0.68627450980392157" green="0.32156862745098042" blue="0.87058823529411766" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemRedColor">
+            <color red="1" green="0.23137254901960785" blue="0.18823529411764706" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>
